@@ -15,7 +15,7 @@ Two report files are generated every week:
 - An "AZ" report, with all countries sorted alphabetically
 - An "SI" file sorted by Safety Index. This one is the most useful when deciding upon immigration rules.
 
-Graphics files:
+Graphics files (SEDRA Charts):
 These files help get a glance at the trend of Covid safety by continent.
 
 The World is divided by continents and by subregion (South, North, Centre). This division does not always correspond to geographical regions, but it is done specifically to reduce the number of lines in a chart, in order to improve its readability. We try to keep these charts at max 15 lines.
