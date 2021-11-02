@@ -15,7 +15,7 @@ Two report files are generated every week:
 - An "AZ" report, with all countries sorted alphabetically
 - An "SI" file sorted by Safety Index. This one is the most useful when deciding upon immigration rules.
 
-Only the latest reports are kept in the "main" folder. Previous ones are to moved to "Previous_Reports
+Only the latest reports are kept in the "main" folder. Previous ones are to moved to "Previous_Reports"
 
 Graphics files (SEDRA Charts):
 These files help get a glance at the trend of Covid safety by continent.
