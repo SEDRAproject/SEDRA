@@ -17,7 +17,8 @@ Two report files are generated every week:
 
 Only the latest reports are kept in the "main" folder. Previous ones are to moved to "Previous_Reports"
 
-Graphics files (SEDRA Charts):
+Charts:
 These files help get a glance at the trend of Covid safety by continent.
+Charts are uploaded to https://sedraproject.github.io/index.html
 
 The World is divided by continents and by subregion (South, North, Centre). This division does not always correspond to geographical regions, but it is done specifically to reduce the number of lines in a chart, in order to improve its readability. We try to keep these charts at max 15 lines.
